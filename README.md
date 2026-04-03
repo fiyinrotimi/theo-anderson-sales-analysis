@@ -3,7 +3,7 @@
 ## 🎯 The Business Challenge
 Management needed visibility into profitability metrics across different days of the week to optimize store operations and marketing spend.
 
-![Dashboard Screenshot](11995.jpg)
+![Dashboard Screenshot](IMG-20241203-WA0000.jpg)
 
 ## 💡 Key Insights Discovered
 * **Profit Margins:** Maintained a healthy 44% profit margin on over $620k in total sales.
